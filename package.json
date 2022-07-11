@@ -1,6 +1,6 @@
 {
   "name": "tyf-aop",
-  "version": "0.0.10",
+  "version": "0.1.1",
   "description": "aop js实现",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
